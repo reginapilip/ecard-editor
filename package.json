@@ -1,0 +1,16 @@
+{
+  "name": "ecard-editor",
+  "version": "1.0.0",
+  "description": "This assignment will have you create a client-side JavaScript application that demonstrates use of the Web Storage API.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://reginapilip.github.io/ecard-editor",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
